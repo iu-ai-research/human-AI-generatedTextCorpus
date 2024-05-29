@@ -40,7 +40,7 @@ Generate a text on the following topic in a way a human would do it: <Text>
 For the other languages, the prompts were translated.
 
 
-# Cite this Research
+## References
 
 Mindner, L., Schlippe, T., Schaaff, K. (2023). Classification of Human- and AI-Generated Texts: Investigating Features for ChatGPT. In: Schlippe, T., Cheng, E.C.K., Wang, T. (eds) Artificial Intelligence in Education Technologies: New Development and Innovative Practices. AIET 2023. Lecture Notes on Data Engineering and Communications Technologies, vol 190. Springer, Singapore. https://doi.org/10.1007/978-981-99-7947-9_12
 

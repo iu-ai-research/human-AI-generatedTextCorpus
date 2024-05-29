@@ -1,7 +1,8 @@
 # Human-AI-Generated Text Corpus
-The dataset contains human-generated, AI-generated and AI-rephrased texts from the educational domain in English, French, German, and Spanish and English texts
-from the news domain.
+The dataset contains human-generated, _AI-generated_ and _AI-rephrased_ texts from the _educational domain_ in English, French, German, and Spanish and English texts
+from the _news domain_.
 
+## Texts from the Educational Domain
 The educational human-generated texts consist of 100 Wikipedia texts from the following categories:
 - Biology
 - Chemistry
@@ -14,6 +15,7 @@ The educational human-generated texts consist of 100 Wikipedia texts from the fo
 - Sports
 - Visual arts
 
+## Text from the News Domain
 The news human-generated texts consist of 100 news articles from the following categories:
 - Crime
 - Entertainment

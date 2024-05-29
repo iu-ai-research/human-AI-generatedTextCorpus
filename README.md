@@ -42,6 +42,8 @@ For the other languages, the prompts were translated.
 
 ## References
 
+Please cite the following publications when using the data from this repo.
+
 Mindner, L., Schlippe, T., Schaaff, K. (2023). Classification of Human- and AI-Generated Texts: Investigating Features for ChatGPT. In: Schlippe, T., Cheng, E.C.K., Wang, T. (eds) Artificial Intelligence in Education Technologies: New Development and Innovative Practices. AIET 2023. Lecture Notes on Data Engineering and Communications Technologies, vol 190. Springer, Singapore. https://doi.org/10.1007/978-981-99-7947-9_12
 
 Schaaff, K., Schlippe, T., Mindner, L. (2023). Classification of Human- and AI-Generated Texts for English, French, German, and Spanish. arXiv:2312.04882. Available at: https://arxiv.org/abs/2312.04882
